@@ -109,7 +109,8 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 ## PDFs
 
-Find a pdf of the curriculum with links [here](pdf/readme.pdf).
+<!-- Find a pdf of the curriculum with links [here](pdf/readme.pdf). -->
+  Find a pdf of the curriculum with links <a href="pdf/readme.pdf">here.</a>
 
 ## Help Wanted!
 
